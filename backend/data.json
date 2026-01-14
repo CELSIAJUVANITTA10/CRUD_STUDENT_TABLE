@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": 1768041001002,
+      "name": "Siva Kumar",
+      "email": "siva@gmail.com",
+      "dept": "CSE",
+      "address": "Madurai, Tamil Nadu",
+      "age": 22
+    }
+  ]
+}
